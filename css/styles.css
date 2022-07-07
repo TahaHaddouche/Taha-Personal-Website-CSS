@@ -346,6 +346,10 @@ a:active
 {
   color: #d7b630;
 }
+.hiremetxt
+{
+  line-height: 1;
+}
 .blanc
 {
   margin: 0;
