@@ -1,0 +1,427 @@
+body
+{
+  margin: 0;
+  text-align: center;
+  font-family: 'Itim', cursive;
+  font-weight: 400;
+  color: white;
+  font-size: 130%;
+}
+/*****************Headings*****************Headings*******************Headings***************/
+h1
+{
+  margin: 0;
+  font-family: 'Parisienne', cursive;
+  font-weight: 500;
+  font-size: 9vw;
+  color: #F7d663;
+  position: absolute;
+  top: 25%;
+  right: 1%;
+  left: 1%;
+}
+h2
+{
+  font-family: 'Patua One', cursive;
+  font-weight: 400;
+  font-size: 250%;
+  color: #d7b643;
+}
+h3
+{
+  font-family: 'Patua One', cursive;
+  font-weight: 400;
+  font-size: 150%;
+  color: #d7b643;
+}
+h4
+{
+  font-family: "Patrick Hand", cursive;
+  font-weight: 500;
+  font-size: 3vw;
+  color: #F7d663;
+  margin: 0;
+  margin-top: 5px;
+  position: absolute;
+  top: 50%;
+  right: 1%;
+  left: 1%;
+}
+hr
+{
+  width: 12%;
+  border-width: 1.5vw;
+  border-style: none;
+  border-top-style: dotted;
+  border-top-color: #F7d663;
+  margin: 7% auto 7% auto;
+  clear: both;
+}
+a
+{
+  text-decoration: none;
+  color: #e7c643;
+}
+a:hover
+{
+  color: #FFFF30;
+}
+a:active
+{
+  color: #90ff20;
+}
+/****************BOX******************BOX********************BOX*******************/
+.container
+{
+  position: relative;
+  padding: 0;
+}
+.top
+{
+  background-image: -webkit-linear-gradient(top, #0a011a, #1F024C);
+  background-image: -moz-linear-gradient(top, #0a011a, #1F024C);
+  background-image: -ms-linear-gradient(top, #0a011a, #1F024C);
+  background-image: -o-linear-gradient(top, #0a011a, #1F024C);
+  background-image: linear-gradient(to bottom, #0a011a 25%, #1F024C);
+}
+.mid
+{
+  background-image: -webkit-linear-gradient(top, #1F024C, #401070, #4a0a7a);
+  background-image: -moz-linear-gradient(top, #1F024C, #401070, #4a0a7a);
+  background-image: -ms-linear-gradient(top, #1F024C, #401070, #4a0a7a);
+  background-image: -o-linear-gradient(top, #1F024C, #401070, #4a0a7a);
+  background-image: linear-gradient(to bottom, #1F024C, #401070, #4a0a7a);
+}
+.profile
+{
+  position: relative;
+}
+.aboutme
+{
+  width: 75%;
+  margin: auto;
+  text-align: left;
+  line-height: 2;
+  margin-bottom: 5%;
+}
+.Skillbox
+{
+  padding-bottom: 5%;
+}
+.skill
+{
+  width: 75%;
+  margin: 7.8% auto;
+  line-height: 2;
+  text-align: left;
+}
+.ratetbl
+{
+  display: inline;
+}
+.hiring
+{
+  width: 75%;
+  margin: 7.8% auto;
+  line-height: 2;
+  position: relative;
+}
+.hirlft
+{
+  position: relative;
+  text-align: left;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+.hirrt
+{
+  position: relative;
+  text-align: right;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+.contact
+{
+  width: 75%;
+  margin: auto;
+}
+.communicate
+{
+  text-align: left;
+  padding-top: 5%;
+  padding-bottom: 7%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.bottom
+{
+  background-image: -webkit-linear-gradient(top, #550069, #7a2860);
+  background-image: -moz-linear-gradient(top, #550069, #7a2860);
+  background-image: -ms-linear-gradient(top, #550069, #7a2860);
+  background-image: -o-linear-gradient(top, #550069, #7a2860);
+  background-image: linear-gradient(to bottom, #550069, #7a2860);
+}
+/***************PICS*******************PICS*******************PICS********************/
+/***TOP***/
+.moon
+{
+  position: absolute;
+  width: 12%;
+  top: 7%;
+  left: 9.4%;
+}
+.cloud
+{
+  width: 10%;
+}
+.cl1
+{
+  position: relative;
+  left: 21.5%;
+  margin: 2.5% 0 2.5% 0;
+  padding-bottom: 39.25%;
+}
+.cl2
+{
+  position: absolute;
+  left: 23.5%;
+  bottom: 25%;
+  width: 11%;
+}
+.star
+{
+  position: absolute;
+}
+.str1
+{
+  left: 6.25%;
+  top: 40%;
+  width: 4.7%;
+}
+.str2
+{
+  right: 17.2%;
+  top: 30%;
+  width: 7.8%;
+}
+.park
+{
+  width: 36%;
+  margin: 0;
+  position: absolute;
+  bottom: 0;
+  right: 1%;
+}
+.wall
+{
+  width: 9%;
+  position: fixed;
+  top: 70px;
+  right: 0;
+}
+.strlight
+{
+  width: 21%;
+  position: absolute;
+  bottom: 0;
+  left: 1%;
+}
+/***Mid***/
+.branch
+{
+  position: absolute;
+  width: 50%;
+  top: 0.5%;
+  right: 0;
+}
+.branchy
+{
+  position: absolute;
+  width: 36%;
+  top: 0;
+  left: 0;
+}
+.tree
+{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 45%;
+}
+.owl
+{
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding-top: 35%;
+  width: 15%;
+}
+.owly
+{
+  position: absolute;
+  bottom: 0;
+  left: 14%;
+  width: 5%;
+  padding-bottom: 27.5%;
+}
+.pfp
+{
+  width: 200px;
+  height: 200px;
+  margin: 5% 0 2% auto;
+  border-style: solid;
+  border-radius: 100%;
+  border-width: 7px;
+  border-color: #501a10;
+}
+.journey
+{
+  width: 30%;
+  float: left;
+  padding: 1%;
+}
+.location
+{
+  width: 25%;
+  float: right;
+  padding: 1%;
+  padding-top: 4%;
+}
+.computer
+{
+  float: left;
+  width: 30%;
+  padding: 1% 5%;
+}
+.bnftrt
+{
+  width: 25%;
+  position: absolute;
+  right: 0;
+  padding-right: 2%;
+}
+.bnftlft
+{
+  width: 25%;
+  position: absolute;
+  left: 0;
+  padding-left: 2%;
+}
+.cntctpic
+{
+  width: 20px;
+  position: relative;
+  top: 4px;
+}
+/***bottom***/
+.bench
+{
+  position: absolute;
+  width: 25%;
+  bottom: 1%;
+  left: 1%;
+}
+.house
+{
+  position: absolute;
+  bottom: 0;
+  right: 1%;
+  width: 26%;
+}
+/******************text*****************text*****************text*****************/
+.pfptxt
+{
+  margin: auto 12.5% 6% 12.5%;
+  line-height: 2;
+}
+.metxt
+{
+  clear: both;
+}
+.skillhead
+{
+  margin: 0 auto 0 auto;
+}
+.rating
+{
+  color: #d7b630;
+}
+.blanc
+{
+  margin: 0;
+}
+.visit
+{
+  position: relative;
+  margin: auto;
+  font-size: 150%;
+  color: #d7b643;
+  width: 40%;
+}
+.copyrights
+{
+  position: relative;
+  margin: 0;
+  padding-bottom: 3%;
+  padding-top: 3%;
+  top: 75%;
+  right: 30%;
+  left: 30%;
+  width: 40%;
+}
+/***************LINK*******************LINK*******************LINK*****************/
+.gmail
+{
+  background: #F7d663;
+  background-image: -webkit-linear-gradient(top, #F7d663, #c7a623);
+  background-image: -moz-linear-gradient(top, #F7d663, #c7a623);
+  background-image: -ms-linear-gradient(top, #F7d663, #c7a623);
+  background-image: -o-linear-gradient(top, #F7d663, #c7a623);
+  background-image: linear-gradient(to bottom, #F7d663, #c7a623);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  text-shadow: 1px 1px 3px #ff00ff;
+  font-family: "Patrick Hand", cursive;
+  color: #35055E;
+  font-size: 19px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.gmail:hover
+{
+  background: #c7a623;
+  background-image: -webkit-linear-gradient(top, #c7a623, #d7b643);
+  background-image: -moz-linear-gradient(top, #c7a623, #d7b643);
+  background-image: -ms-linear-gradient(top, #c7a623, #d7b643);
+  background-image: -o-linear-gradient(top, #c7a623, #d7b643);
+  background-image: linear-gradient(to bottom, #c7a623, #d7b643);
+  text-decoration: none;
+  color: #35055E;
+}
+.gmail:active
+{
+  border-style: outset;
+  border-color: silver;
+  border-width: 0.4vw;
+}
+.link
+{
+  position: relative;
+  width: 7%;
+  border-radius: 20%;
+  margin: 4% 2%;
+}
+.link:hover
+{
+  border-style: outset;
+  border-color: #d7b643;
+  border-width: 0.6vw;
+  width: 5.7%;
+}
+.link:active
+{
+  width: 7.5%;
+  border-width: 0.5vw;
+}
