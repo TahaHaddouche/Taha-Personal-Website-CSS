@@ -2,7 +2,7 @@ body
 {
   margin: 0;
   text-align: center;
-  font-family: 'Itim', cursive;
+  font-family: 'Itim', cursive, sans-serif;
   font-weight: 400;
   color: white;
   font-size: 130%;
@@ -11,7 +11,7 @@ body
 h1
 {
   margin: 0;
-  font-family: 'Parisienne', cursive;
+  font-family: 'Parisienne', cursive, serif;
   font-weight: 500;
   font-size: 9vw;
   color: #F7d663;
@@ -22,14 +22,14 @@ h1
 }
 h2
 {
-  font-family: 'Patua One', cursive;
+  font-family: 'Patua One', cursive, serif;
   font-weight: 400;
   font-size: 250%;
   color: #d7b643;
 }
 h3
 {
-  font-family: 'Patua One', cursive;
+  font-family: 'Patua One', cursive, serif;
   font-weight: 400;
   font-size: 150%;
   color: #d7b643;
